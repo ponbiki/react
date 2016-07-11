@@ -1,8 +1,9 @@
+// tutorial1.js
 var CommentBox = React.createClass({
     render: function() {
         return (
-            <div className="CommentBox">
-                Hello, world! I am a CommentBox.
+            <div className="commentBox">
+                Hello, world!  I am a CommentBox.
             </div>
         );
     }
